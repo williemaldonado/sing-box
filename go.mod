@@ -28,14 +28,14 @@ require (
 	github.com/sagernet/reality v0.0.0-20230406110435-ee17307e7691
 	github.com/sagernet/sing v0.2.19-0.20231208110306-a3ce328ce759
 	github.com/sagernet/sing-dns v0.1.11
-	github.com/sagernet/sing-mux v0.1.6-0.20231207143704-9f6c20fb5266
+	github.com/sagernet/sing-mux v0.1.6-0.20231208180947-9053c29513a2
 	github.com/sagernet/sing-quic v0.1.6-0.20231207143711-eb3cbf9ed054
 	github.com/sagernet/sing-shadowsocks v0.2.6
 	github.com/sagernet/sing-shadowsocks2 v0.1.6-0.20231207143709-50439739601a
 	github.com/sagernet/sing-shadowtls v0.1.4
 	github.com/sagernet/sing-tun v0.1.23-0.20231208180328-71d630817d55
 	github.com/sagernet/sing-vmess v0.1.8
-	github.com/sagernet/smux v0.0.0-20230312102458-337ec2a5af37
+	github.com/sagernet/smux v0.0.0-20231208180855-7041f6ea79e7
 	github.com/sagernet/tfo-go v0.0.0-20230816093905-5a5c285d44a6
 	github.com/sagernet/utls v0.0.0-20230309024959-6732c2ab36f2
 	github.com/sagernet/wireguard-go v0.0.0-20230807125731-5d4a7ef2dc5f
